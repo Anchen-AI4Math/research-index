@@ -94,6 +94,8 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 
 ## 维护方法
 
+默认 agent 收尾维护流程见 [MAINTENANCE.md](MAINTENANCE.md)。该流程维护组织主页与本目录，不更新个人主页。
+
 1. 新建独立课题仓库时，在上方仓库表添加一行，链接到其 README 和验证记录。
 2. 共享工作区新增课题时，更新工作区 `missions/index.json`，并同步本目录的课题表与 [catalog.json](catalog.json)。
 3. 每个课题在自己的仓库维护状态、下一步工作和证据；总目录保持导航简洁。
