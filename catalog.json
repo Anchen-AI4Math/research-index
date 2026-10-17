@@ -196,5 +196,21 @@
       "research_stage": "see-source",
       "verification_status": "see-source"
     }
+  ],
+  "repositories": [
+    {
+      "full_name": "Anchen-AI4Math/hlawka-diagonal-certificates",
+      "title": "Sharp diagonal Hlawka certificates",
+      "url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates",
+      "area": "functional-analysis",
+      "research_stage": "computer-assisted-proof-preprint",
+      "verification_status": "Arb and rational finite certificates pass; independent analytic review pending; no new Lean proof",
+      "publication_status": "public repository preprint; not submitted to a journal or Prove2Me",
+      "status_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/status.json",
+      "paper_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/paper/main.pdf",
+      "evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/bbb7567811f9ee82c41792542da35615e9e5f276/results/release-replay.json",
+      "source_commit": "bbb7567811f9ee82c41792542da35615e9e5f276",
+      "indexed_on": "2026-10-17"
+    }
   ]
 }
