@@ -204,15 +204,15 @@
       "url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates",
       "area": "functional-analysis",
       "research_stage": "computer-assisted-proof-preprint",
-      "verification_status": "Arb and rational finite certificates pass; six auxiliary Lean proofs ACCEPTED by Prove2Me; cutoff21 root Open; independent analytic review pending",
+      "verification_status": "Arb and rational finite certificates pass; both original scalar window milestones Proved with no open dependencies; 27 auxiliary Lean theorems ACCEPTED; 256 conditional contraction slabs locally kernel checked; real-three windows and cutoff21 root Open; independent analytic review pending",
       "publication_status": "public repository preprint; campaign-linked Prove2Me proposal submitted by author, In review; live mission pending moderation; no journal submission",
       "status_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/status.json",
       "paper_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/paper/main.pdf",
       "evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/bbb7567811f9ee82c41792542da35615e9e5f276/results/release-replay.json",
-      "source_commit": "7ad798d4aa461e1c8c2b5d87a87d73b7bdf9dcd0",
+      "source_commit": "56c183cb838868a18be6a73d065ae4bed5239189",
       "indexed_on": "2026-10-17",
-      "proposal_materials_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/7ad798d4aa461e1c8c2b5d87a87d73b7bdf9dcd0/platform/README.md",
-      "lean_evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/7ad798d4aa461e1c8c2b5d87a87d73b7bdf9dcd0/results/prove2me-auxiliary.json",
+      "proposal_materials_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/56c183cb838868a18be6a73d065ae4bed5239189/platform/README.md",
+      "lean_evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/56c183cb838868a18be6a73d065ae4bed5239189/results/prove2me-goals.json",
       "goal_url": "https://prove2.me/theorems/db286144-c8c4-4918-9bc9-03fcadedfffd"
     }
   ]
