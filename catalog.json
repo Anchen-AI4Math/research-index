@@ -205,12 +205,13 @@
       "area": "functional-analysis",
       "research_stage": "computer-assisted-proof-preprint",
       "verification_status": "Arb and rational finite certificates pass; independent analytic review pending; no new Lean proof",
-      "publication_status": "public repository preprint; not submitted to a journal or Prove2Me",
+      "publication_status": "public repository preprint; campaign-linked Prove2Me proposal prepared (Draft, human self-audit and submission pending); no journal submission",
       "status_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/status.json",
       "paper_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/paper/main.pdf",
       "evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/bbb7567811f9ee82c41792542da35615e9e5f276/results/release-replay.json",
-      "source_commit": "bbb7567811f9ee82c41792542da35615e9e5f276",
-      "indexed_on": "2026-10-17"
+      "source_commit": "25c0330d8cc5f3ceb207756c890c4e9cd48e8950",
+      "indexed_on": "2026-10-17",
+      "proposal_materials_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/25c0330d8cc5f3ceb207756c890c4e9cd48e8950/platform/README.md"
     }
   ]
 }
