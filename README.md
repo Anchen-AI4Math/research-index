@@ -6,11 +6,11 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 
 | 项目 | 研究方向 | 进展与证据入口 |
 | --- | --- | --- |
-| [3SUM](https://github.com/Anchen0823/3sum) | 算法分析、复杂度与解析证书 | [研究阶段与成果归档](https://github.com/Anchen0823/3sum#readme) |
-| [Average Sensitivity](https://github.com/Anchen0823/average-sensitivity-lean) | 多项式阈值函数、Lean 形式化 | [定理、构建方式与验证记录](https://github.com/Anchen0823/average-sensitivity-lean#readme) |
-| [Prove2Me Workspace](https://github.com/Anchen0823/prove2me_workspace) | 多课题研究与共享 Lean/Mathlib 环境 | [工作区说明](https://github.com/Anchen0823/prove2me_workspace#readme) |
+| [3SUM](https://github.com/Anchen-AI4Math/3sum) | 算法分析、复杂度与解析证书 | [研究阶段与成果归档](https://github.com/Anchen-AI4Math/3sum#readme) |
+| [Average Sensitivity](https://github.com/Anchen-AI4Math/average-sensitivity-lean) | 多项式阈值函数、Lean 形式化 | [定理、构建方式与验证记录](https://github.com/Anchen-AI4Math/average-sensitivity-lean#readme) |
+| [Prove2Me Workspace](https://github.com/Anchen-AI4Math/prove2me_workspace) | 多课题研究与共享 Lean/Mathlib 环境 | [工作区说明](https://github.com/Anchen-AI4Math/prove2me_workspace#readme) |
 
-本目录汇总各仓库，不复制证明源码。现有研究仓库保留当前归属，未来迁移时更新这里的链接。
+本目录汇总各仓库，不复制证明源码。研究仓库已统一迁入 Anchen-AI4Math 组织；本目录链接指向迁移后的正式地址。
 
 ## 工作区课题
 
@@ -20,65 +20,65 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 
 | 课题 | 进展入口 |
 | --- | --- |
-| Magic Squares I: order-three enumeration | [magic-squares](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares/status.md) |
-| Magic Squares II: semi-magic count | [semi-magic](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/semi-magic/status.md) |
-| Magic Squares III: normal order-three squares | [normal3](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/normal3/status.md) |
-| Magic Squares IV: special order-three classes | [magic-squares-iv](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares-iv/status.md) |
-| Magic Squares V: general counting theory | [magic-squares-v](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares-v/status.md) |
-| Magic-square node reattachment (maintenance) | [magic-squares-reattach](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares-reattach/status.md) |
+| Magic Squares I: order-three enumeration | [magic-squares](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares/status.md) |
+| Magic Squares II: semi-magic count | [semi-magic](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/semi-magic/status.md) |
+| Magic Squares III: normal order-three squares | [normal3](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/normal3/status.md) |
+| Magic Squares IV: special order-three classes | [magic-squares-iv](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares-iv/status.md) |
+| Magic Squares V: general counting theory | [magic-squares-v](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares-v/status.md) |
+| Magic-square node reattachment (maintenance) | [magic-squares-reattach](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares-reattach/status.md) |
 
 ### 数论
 
 | 课题 | 进展入口 |
 | --- | --- |
-| Every odd number: at most five primes | [five-primes](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/five-primes/status.md) |
-| Weak Goldbach | [weak-goldbach](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/weak-goldbach/status.md) |
-| Elementary number theory textbook (proposal) | [nt-textbook-proposal](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/nt-textbook-proposal/DRAFT.md) |
-| Distinct prime polynomial record search | [prime-polynomials](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/prime-polynomials/status.md) |
-| Equal sums of two squares: parametrization and infinite families | [two-squares](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/two-squares/status.md) |
-| Zeta(7) irrationality research attempt | [zeta7](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zeta7/status.md) |
-| Zeta(9) irrationality research | [zeta9](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zeta9/status.md) |
-| Zudilin: one of zeta(5,7,9,11) is irrational | [zudilin](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zudilin/explanation_reduction.md) |
-| Pi irrationality measure: OpenAI exponent-two campaign entry | [pi-irrationality-measure](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/pi-irrationality-measure/status.md) |
+| Every odd number: at most five primes | [five-primes](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/five-primes/status.md) |
+| Weak Goldbach | [weak-goldbach](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/weak-goldbach/status.md) |
+| Elementary number theory textbook (proposal) | [nt-textbook-proposal](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/nt-textbook-proposal/DRAFT.md) |
+| Distinct prime polynomial record search | [prime-polynomials](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/prime-polynomials/status.md) |
+| Equal sums of two squares: parametrization and infinite families | [two-squares](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/two-squares/status.md) |
+| Zeta(7) irrationality research attempt | [zeta7](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zeta7/status.md) |
+| Zeta(9) irrationality research | [zeta9](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zeta9/status.md) |
+| Zudilin: one of zeta(5,7,9,11) is irrational | [zudilin](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zudilin/explanation_reduction.md) |
+| Pi irrationality measure: OpenAI exponent-two campaign entry | [pi-irrationality-measure](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/pi-irrationality-measure/status.md) |
 
 ### 分析
 
 | 课题 | 进展入口 |
 | --- | --- |
-| Irrationality of Euler gamma | [euler-gamma](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/euler-gamma/SESSION-CHECKPOINT.md) |
+| Irrationality of Euler gamma | [euler-gamma](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/euler-gamma/SESSION-CHECKPOINT.md) |
 
 ### 概率
 
 | 课题 | 进展入口 |
 | --- | --- |
-| The Bunkbed conjecture is false | [bunkbed](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/bunkbed/status.md) |
-| Zipf distribution: finite laws and infinite extension | [zipf](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zipf/status.md) |
+| The Bunkbed conjecture is false | [bunkbed](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/bunkbed/status.md) |
+| Zipf distribution: finite laws and infinite extension | [zipf](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zipf/status.md) |
 
 ### 逻辑
 
 | 课题 | 进展入口 |
 | --- | --- |
-| Fast-growing hierarchies above epsilon-zero: feasibility | [fgh-scout](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/fgh-scout/FEASIBILITY-REPORT.md) |
+| Fast-growing hierarchies above epsilon-zero: feasibility | [fgh-scout](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/fgh-scout/FEASIBILITY-REPORT.md) |
 
 ### 组合数学
 
 | 课题 | 进展入口 |
 | --- | --- |
-| Binary strings with no adjacent ones | [no-adjacent](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/no-adjacent/status.md) |
-| Snaky in 21 Maker moves | [snaky-21](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/snaky-21/status.md) |
+| Binary strings with no adjacent ones | [no-adjacent](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/no-adjacent/status.md) |
+| Snaky in 21 Maker moves | [snaky-21](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/snaky-21/status.md) |
 
 ### 近似算法
 
 | 课题 | 进展入口 |
 | --- | --- |
-| Karmarkar-Karp II: geometric grouping and residual LP rounding | [kk-bin-packing](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/kk-bin-packing/status.md) |
+| Karmarkar-Karp II: geometric grouping and residual LP rounding | [kk-bin-packing](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/kk-bin-packing/status.md) |
 
 ### 算法
 
 | 课题 | 进展入口 |
 | --- | --- |
-| 3SUM: sharp binomial tail and exponent 1.999017 | [3sum-sharp-tail](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/3sum-sharp-tail/status.md) |
-| 3SUM: quartic switch and exponent 1.960614 | [3sum-1960614](https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/3sum-1960614/status.md) |
+| 3SUM: sharp binomial tail and exponent 1.999017 | [3sum-sharp-tail](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/3sum-sharp-tail/status.md) |
+| 3SUM: quartic switch and exponent 1.960614 | [3sum-1960614](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/3sum-1960614/status.md) |
 
 ## 如何理解进展
 
@@ -105,5 +105,5 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 
 - 整理日期：2026-10-17。
 - 收录工作区课题：24 个。
-- [固定版本的原始课题索引](https://github.com/Anchen0823/prove2me_workspace/blob/d4934b2df43c0d63150a3b0348d3084e5e04bd4a/missions/index.json)。
+- [固定版本的原始课题索引](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/d4934b2df43c0d63150a3b0348d3084e5e04bd4a/missions/index.json)。
 - 课题状态链接指向 `main`，随源仓库更新；[catalog.json](catalog.json) 保存本次收录清单和来源提交。
