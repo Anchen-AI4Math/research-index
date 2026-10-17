@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "indexed_on": "2026-10-17",
-  "source_repository": "Anchen0823/prove2me_workspace",
+  "source_repository": "Anchen-AI4Math/prove2me_workspace",
   "source_commit": "d4934b2df43c0d63150a3b0348d3084e5e04bd4a",
   "missions": [
     {
       "slug": "magic-squares",
       "title": "Magic Squares I: order-three enumeration",
       "area": "magic-squares",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -16,7 +16,7 @@
       "slug": "semi-magic",
       "title": "Magic Squares II: semi-magic count",
       "area": "magic-squares",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/semi-magic/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/semi-magic/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -24,7 +24,7 @@
       "slug": "normal3",
       "title": "Magic Squares III: normal order-three squares",
       "area": "magic-squares",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/normal3/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/normal3/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -32,7 +32,7 @@
       "slug": "magic-squares-iv",
       "title": "Magic Squares IV: special order-three classes",
       "area": "magic-squares",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares-iv/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares-iv/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -40,7 +40,7 @@
       "slug": "magic-squares-v",
       "title": "Magic Squares V: general counting theory",
       "area": "magic-squares",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares-v/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares-v/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -48,7 +48,7 @@
       "slug": "magic-squares-reattach",
       "title": "Magic-square node reattachment (maintenance)",
       "area": "magic-squares",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/magic-squares-reattach/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/magic-squares-reattach/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -56,7 +56,7 @@
       "slug": "five-primes",
       "title": "Every odd number: at most five primes",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/five-primes/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/five-primes/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -64,7 +64,7 @@
       "slug": "weak-goldbach",
       "title": "Weak Goldbach",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/weak-goldbach/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/weak-goldbach/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -72,7 +72,7 @@
       "slug": "nt-textbook-proposal",
       "title": "Elementary number theory textbook (proposal)",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/nt-textbook-proposal/DRAFT.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/nt-textbook-proposal/DRAFT.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -80,7 +80,7 @@
       "slug": "prime-polynomials",
       "title": "Distinct prime polynomial record search",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/prime-polynomials/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/prime-polynomials/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -88,7 +88,7 @@
       "slug": "two-squares",
       "title": "Equal sums of two squares: parametrization and infinite families",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/two-squares/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/two-squares/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -96,7 +96,7 @@
       "slug": "zeta7",
       "title": "Zeta(7) irrationality research attempt",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zeta7/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zeta7/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -104,7 +104,7 @@
       "slug": "zeta9",
       "title": "Zeta(9) irrationality research",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zeta9/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zeta9/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -112,7 +112,7 @@
       "slug": "zudilin",
       "title": "Zudilin: one of zeta(5,7,9,11) is irrational",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zudilin/explanation_reduction.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zudilin/explanation_reduction.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -120,7 +120,7 @@
       "slug": "pi-irrationality-measure",
       "title": "Pi irrationality measure: OpenAI exponent-two campaign entry",
       "area": "number-theory",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/pi-irrationality-measure/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/pi-irrationality-measure/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -128,7 +128,7 @@
       "slug": "euler-gamma",
       "title": "Irrationality of Euler gamma",
       "area": "analysis",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/euler-gamma/SESSION-CHECKPOINT.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/euler-gamma/SESSION-CHECKPOINT.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -136,7 +136,7 @@
       "slug": "bunkbed",
       "title": "The Bunkbed conjecture is false",
       "area": "probability",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/bunkbed/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/bunkbed/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -144,7 +144,7 @@
       "slug": "zipf",
       "title": "Zipf distribution: finite laws and infinite extension",
       "area": "probability",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/zipf/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/zipf/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -152,7 +152,7 @@
       "slug": "fgh-scout",
       "title": "Fast-growing hierarchies above epsilon-zero: feasibility",
       "area": "logic",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/fgh-scout/FEASIBILITY-REPORT.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/fgh-scout/FEASIBILITY-REPORT.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -160,7 +160,7 @@
       "slug": "no-adjacent",
       "title": "Binary strings with no adjacent ones",
       "area": "combinatorics",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/no-adjacent/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/no-adjacent/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -168,7 +168,7 @@
       "slug": "snaky-21",
       "title": "Snaky in 21 Maker moves",
       "area": "combinatorics",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/snaky-21/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/snaky-21/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -176,7 +176,7 @@
       "slug": "kk-bin-packing",
       "title": "Karmarkar-Karp II: geometric grouping and residual LP rounding",
       "area": "approximation-algorithms",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/kk-bin-packing/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/kk-bin-packing/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -184,7 +184,7 @@
       "slug": "3sum-sharp-tail",
       "title": "3SUM: sharp binomial tail and exponent 1.999017",
       "area": "algorithms",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/3sum-sharp-tail/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/3sum-sharp-tail/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     },
@@ -192,7 +192,7 @@
       "slug": "3sum-1960614",
       "title": "3SUM: quartic switch and exponent 1.960614",
       "area": "algorithms",
-      "status_url": "https://github.com/Anchen0823/prove2me_workspace/blob/main/missions/3sum-1960614/status.md",
+      "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/3sum-1960614/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
     }
