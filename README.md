@@ -9,7 +9,7 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 | [3SUM](https://github.com/Anchen-AI4Math/3sum) | 算法分析、复杂度与解析证书 | [研究阶段与成果归档](https://github.com/Anchen-AI4Math/3sum#readme) |
 | [Average Sensitivity](https://github.com/Anchen-AI4Math/average-sensitivity-lean) | 多项式阈值函数、Lean 形式化 | [定理、构建方式与验证记录](https://github.com/Anchen-AI4Math/average-sensitivity-lean#readme) |
 | [Prove2Me Workspace](https://github.com/Anchen-AI4Math/prove2me_workspace) | 多课题研究与共享 Lean/Mathlib 环境 | [工作区说明](https://github.com/Anchen-AI4Math/prove2me_workspace#readme) |
-| [Sharp diagonal Hlawka](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates) | 复数 ℓp 最优 Hlawka 常数，p ≥ 21 的计算机辅助证明 | [论文预印本](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/paper/main.pdf) · [本地新证明链通过；平台完整验证中](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/formalization/README.md) · [提案审核中](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/platform/README.md) |
+| [Sharp diagonal Hlawka](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates) | 复数 ℓp 最优 Hlawka 常数，p ≥ 21 的计算机辅助证明 | [论文预印本](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/paper/main.pdf) · [首个实三维窗口 Proved；完整验证中](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/formalization/README.md) · [提案审核中](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/platform/README.md) |
 
 本目录汇总各仓库，不复制证明源码。研究仓库已统一迁入 Anchen-AI4Math 组织；本目录链接指向迁移后的正式地址。
 
