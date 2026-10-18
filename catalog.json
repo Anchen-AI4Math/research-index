@@ -226,14 +226,14 @@
       "url": "https://github.com/Anchen-AI4Math/angel-devil",
       "area": "combinatorial-game-theory",
       "research_stage": "formalization-in-progress",
-      "verification_status": "52 local lemmas checked without sorryAx; Claim 2.6 and Theorem 2.4 ACCEPTED and connected to main graph; uniform confinement and Nice escape remain Open",
+      "verification_status": "74 local theorems checked without sorryAx; strategy compactness, finite determinacy and uniform confinement ACCEPTED; original Theorem 2.7 Proved; main graph has one open leaf, Theorem 4.5 Nice escape",
       "publication_status": "public repository formalizing Mathe 2007; Prove2Me proposal In review after human submission, moderation pending",
       "status_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md",
       "paper_url": "https://doi.org/10.1017/S0963548306008303",
-      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/9e776fe4d679d50f4d36f6a99e664961643b557f/verification/section2-graph-audit.md",
-      "source_commit": "9e776fe4d679d50f4d36f6a99e664961643b557f",
+      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/8f06f3bf98a1d1c42f90b4b54045ff82c1a16426/verification/compactness-graph-audit.md",
+      "source_commit": "8f06f3bf98a1d1c42f90b4b54045ff82c1a16426",
       "indexed_on": "2026-10-18",
-      "platform_evidence_url": "https://prove2.me/theorems/573ba228-d8a4-41f7-ab55-9aad2fd7f68d"
+      "platform_evidence_url": "https://prove2.me/theorems/76719177-828c-4447-b573-06ec5a9f0684"
     }
   ]
 }
