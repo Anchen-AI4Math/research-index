@@ -226,13 +226,14 @@
       "url": "https://github.com/Anchen-AI4Math/angel-devil",
       "area": "combinatorial-game-theory",
       "research_stage": "formalization-in-progress",
-      "verification_status": "9 foundational lemmas checked on Lean 4.33.1 without sorryAx; 3 paper targets remain unproved; no server proof verdict",
-      "publication_status": "public repository formalizing Mathe 2007; Prove2Me proposal Draft, human audit and submission pending",
+      "verification_status": "42 local lemmas checked on Lean 4.33.1 without sorryAx; reduced journey preservation ACCEPTED; main reduction SKETCH_ACCEPTED with two open children; main theorem unproved",
+      "publication_status": "public repository formalizing Mathe 2007; Prove2Me proposal In review after human submission, moderation pending",
       "status_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md",
       "paper_url": "https://doi.org/10.1017/S0963548306008303",
-      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/0c739d810db8c06174a58484e9b843b38dd4acd5/verification/local-checks.json",
-      "source_commit": "0c739d810db8c06174a58484e9b843b38dd4acd5",
-      "indexed_on": "2026-10-18"
+      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/d34883888ae532d4550f26443c78b44cdf2c96ea/verification/local-checks.json",
+      "source_commit": "d34883888ae532d4550f26443c78b44cdf2c96ea",
+      "indexed_on": "2026-10-18",
+      "platform_evidence_url": "https://prove2.me/theorems/09953273-0806-4e9f-a1da-0b10a2292ffb"
     }
   ]
 }
