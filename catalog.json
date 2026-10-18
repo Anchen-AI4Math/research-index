@@ -226,14 +226,14 @@
       "url": "https://github.com/Anchen-AI4Math/angel-devil",
       "area": "combinatorial-game-theory",
       "research_stage": "formalization-in-progress",
-      "verification_status": "89 local theorems checked without sorryAx; Theorem 2.7 Proved; Claim 4.2 connected-square boundary bound ACCEPTED as a standalone helper; Theorem 4.5 Nice escape remains open",
+      "verification_status": "123 local theorems checked without sorryAx; explicit wall strategy survival and first-repeat property proved; no-return-to-winning implication ACCEPTED; original Theorem 4.5 reduction SKETCH_ACCEPTED; main graph has one open geometric no-return leaf",
       "publication_status": "public repository formalizing Mathe 2007; Prove2Me proposal In review after human submission, moderation pending",
       "status_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md",
       "paper_url": "https://doi.org/10.1017/S0963548306008303",
-      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/00ef6e2435aa74909a5f818ecd0de6a3aa1866e9/verification/boundary-audit.md",
-      "source_commit": "00ef6e2435aa74909a5f818ecd0de6a3aa1866e9",
+      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/233cbe3dfd1c0b7ef7ec19c9f683c3efc14f75cb/verification/wall-graph-audit.md",
+      "source_commit": "233cbe3dfd1c0b7ef7ec19c9f683c3efc14f75cb",
       "indexed_on": "2026-10-18",
-      "platform_evidence_url": "https://prove2.me/theorems/595569d4-9682-4a6c-9967-8e47f242c4c0"
+      "platform_evidence_url": "https://prove2.me/theorems/3ec0f8c7-bca2-454f-9f1f-e43728a98359"
     }
   ]
 }
