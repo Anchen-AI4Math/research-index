@@ -10,7 +10,7 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 | [Average Sensitivity](https://github.com/Anchen-AI4Math/average-sensitivity-lean) | 多项式阈值函数、Lean 形式化 | [定理、构建方式与验证记录](https://github.com/Anchen-AI4Math/average-sensitivity-lean#readme) |
 | [Prove2Me Workspace](https://github.com/Anchen-AI4Math/prove2me_workspace) | 多课题研究与共享 Lean/Mathlib 环境 | [工作区说明](https://github.com/Anchen-AI4Math/prove2me_workspace#readme) |
 | [Sharp diagonal Hlawka](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates) | 复数 ℓp 最优 Hlawka 常数，p ≥ 21 的计算机辅助证明 | [论文预印本 v2](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/paper/main.pdf) · [完整 Lean / 平台证明通过，零开放依赖](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/formalization/README.md) · [正式 mission 已批准，campaign 认证 cutoff 21](https://prove2.me/missions/8e2bd9f5-57b1-4d55-aab4-a94532a6d6b8) |
-| [Angel–Devil](https://github.com/Anchen-AI4Math/angel-devil) | Máthé 2007 天使力量 2 必胜定理的 Lean 形式化 | [墙沿策略安全性已证明；不返回到必胜的条件证明获验证；几何不返回仍开放](https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md) |
+| [Angel–Devil](https://github.com/Anchen-AI4Math/angel-devil) | Máthé 2007 天使力量 2 必胜定理的 Lean 形式化 | [形式化完成；主定理 Proved；185 个本地定理验证通过；开放叶子 0](https://github.com/Anchen-AI4Math/angel-devil/blob/main/verification/completion-audit.md) |
 
 本目录汇总各仓库，不复制证明源码。研究仓库已统一迁入 Anchen-AI4Math 组织；本目录链接指向迁移后的正式地址。
 
