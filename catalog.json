@@ -219,6 +219,20 @@
       "completion_audit_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/results/lean-completion-audit.json",
       "mission_url": "https://prove2.me/missions/8e2bd9f5-57b1-4d55-aab4-a94532a6d6b8",
       "campaign_url": "https://prove2.me/campaigns/sharp-diagonal-hlawka-constant"
+    },
+    {
+      "full_name": "Anchen-AI4Math/angel-devil",
+      "title": "The Angel of Power 2 Wins — Lean formalization",
+      "url": "https://github.com/Anchen-AI4Math/angel-devil",
+      "area": "combinatorial-game-theory",
+      "research_stage": "formalization-in-progress",
+      "verification_status": "9 foundational lemmas checked on Lean 4.33.1 without sorryAx; 3 paper targets remain unproved; no server proof verdict",
+      "publication_status": "public repository formalizing Mathe 2007; Prove2Me proposal Draft, human audit and submission pending",
+      "status_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md",
+      "paper_url": "https://doi.org/10.1017/S0963548306008303",
+      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/0c739d810db8c06174a58484e9b843b38dd4acd5/verification/local-checks.json",
+      "source_commit": "0c739d810db8c06174a58484e9b843b38dd4acd5",
+      "indexed_on": "2026-10-18"
     }
   ]
 }
