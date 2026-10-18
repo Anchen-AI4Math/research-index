@@ -205,18 +205,20 @@
       "area": "functional-analysis",
       "research_stage": "computer-assisted-proof-preprint",
       "verification_status": "Original full cutoff21 goal Proved on Prove2Me with zero open dependencies; all five original statements and import preambles unchanged; all real p >= 21 and all finite complex dimensions including zero; all 65 finite localization parent targets closed; new local chain kernel checked with standard axioms; accepted cutoff32 tail reused, not independently rebuilt; independent analytic review pending",
-      "publication_status": "public repository preprint v2; campaign-linked Prove2Me proposal In review, live mission and campaign attestation pending; current attested campaign cutoff 32; no journal submission",
+      "publication_status": "public repository preprint v2; Prove2Me proposal Reviewed and live mission created on 2026-10-18; campaign cutoff 21 attested and Proved, zero open dependencies; independent analytic review pending; no journal submission recorded",
       "status_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/status.json",
       "paper_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/paper/main.pdf",
       "evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/bbb7567811f9ee82c41792542da35615e9e5f276/results/release-replay.json",
-      "source_commit": "e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2",
-      "indexed_on": "2026-10-17",
-      "proposal_materials_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/platform/README.md",
+      "source_commit": "9fb54fe50028a632c2a2e98fea08d18071748012",
+      "indexed_on": "2026-10-18",
+      "proposal_materials_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/9fb54fe50028a632c2a2e98fea08d18071748012/platform/README.md",
       "lean_evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/results/lean-full-window-build.json",
       "goal_url": "https://prove2.me/theorems/db286144-c8c4-4918-9bc9-03fcadedfffd",
-      "platform_evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/results/prove2me-goals.json",
+      "platform_evidence_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/9fb54fe50028a632c2a2e98fea08d18071748012/results/prove2me-status-2026-10-18.json",
       "finite_certificate_progress_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/results/prove2me-domain-blocks.json",
-      "completion_audit_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/results/lean-completion-audit.json"
+      "completion_audit_url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/e27c3c6c6fb0dd11d1956d05ada4df1e77a985c2/results/lean-completion-audit.json",
+      "mission_url": "https://prove2.me/missions/8e2bd9f5-57b1-4d55-aab4-a94532a6d6b8",
+      "campaign_url": "https://prove2.me/campaigns/sharp-diagonal-hlawka-constant"
     }
   ]
 }
