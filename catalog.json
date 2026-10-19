@@ -222,18 +222,18 @@
     },
     {
       "full_name": "Anchen-AI4Math/angel-devil",
-      "title": "The Angel of Power 2 Wins — Lean formalization",
+      "title": "Angel–Devil: complete integer-power classification",
       "url": "https://github.com/Anchen-AI4Math/angel-devil",
       "area": "combinatorial-game-theory",
       "research_stage": "formalization-complete",
-      "verification_status": "185 local theorems checked with only standard axioms; exact original Theorems 2.7, 4.5 and 4.6 proved; final geometric proof ACCEPTED; main platform graph has zero open leaves",
-      "publication_status": "public repository formalizing Mathe 2007; theorem graph complete; Prove2Me proposal In review after human submission, administrative moderation pending",
+      "verification_status": "228 local theorems checked with standard axioms only; power-one Devil win and all p>=2 Angel wins proved; all six extension submissions ACCEPTED; classification graph has zero open leaves",
+      "publication_status": "public formalization of known Berlekamp/Kutz king-capture and Mathe 2007 results; no new mathematics or peer-reviewed publication claimed; original Prove2Me proposal Reviewed",
       "status_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md",
       "paper_url": "https://doi.org/10.1017/S0963548306008303",
-      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/dabc624e90f4814fb67e85dec349b0a973981629/verification/completion-audit.md",
-      "source_commit": "dabc624e90f4814fb67e85dec349b0a973981629",
-      "indexed_on": "2026-10-18",
-      "platform_evidence_url": "https://prove2.me/theorems/6204cf5d-3e21-4e77-91ee-856e578b4253"
+      "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/54d50dabee08c60df691e8a76c8d8467527f0895/verification/classification-audit.md",
+      "source_commit": "54d50dabee08c60df691e8a76c8d8467527f0895",
+      "indexed_on": "2026-10-19",
+      "platform_evidence_url": "https://prove2.me/theorems/78319c36-be90-44b7-ae39-6f212616b326"
     }
   ]
 }
