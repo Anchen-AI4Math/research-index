@@ -227,14 +227,19 @@
       "area": "combinatorial-game-theory",
       "research_stage": "formalization-complete",
       "verification_status": "228 local theorems checked with standard axioms only; power-one Devil win and all p>=2 Angel wins proved; all six extension submissions ACCEPTED; classification graph has zero open leaves",
-      "publication_status": "public formalization of known Berlekamp/Kutz and Mathe results; original Prove2Me mission publicly listed with main theorem Proved and proposal Reviewed; no new mathematics or peer-reviewed publication claimed",
+      "publication_status": "public formalization of known Berlekamp/Kutz and Mathe results; unified public Prove2Me mission targets the complete classification, Proved, with 4/4 source milestones completed; original proposal Reviewed; no new mathematics or peer-reviewed publication claimed",
       "status_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md",
       "paper_url": "https://doi.org/10.1017/S0963548306008303",
       "evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/f2b8fd9f64d80c2fb5e60fca70e4985f8a00d202/verification/classification-audit.md",
-      "source_commit": "f2b8fd9f64d80c2fb5e60fca70e4985f8a00d202",
+      "source_commit": "f2709e37c0bbd59481ce4a19dee9422bdc4347c1",
       "indexed_on": "2026-10-19",
       "platform_evidence_url": "https://prove2.me/theorems/78319c36-be90-44b7-ae39-6f212616b326",
-      "mission_id": "6ca204ff-f20b-44be-9d36-410667a76662"
+      "mission_id": "6ca204ff-f20b-44be-9d36-410667a76662",
+      "mission_url": "https://prove2.me/missions/6ca204ff-f20b-44be-9d36-410667a76662",
+      "mission_name": "Angel-Devil: Complete Integer-Power Classification",
+      "main_theorem_id": "78319c36-be90-44b7-ae39-6f212616b326",
+      "completed_milestones": 4,
+      "mission_evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/f2709e37c0bbd59481ce4a19dee9422bdc4347c1/verification/classification-mission/after.json"
     }
   ]
 }
