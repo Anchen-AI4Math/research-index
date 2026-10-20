@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "indexed_on": "2026-10-17",
+  "indexed_on": "2026-10-20",
   "source_repository": "Anchen-AI4Math/prove2me_workspace",
   "source_commit": "d4934b2df43c0d63150a3b0348d3084e5e04bd4a",
   "missions": [
@@ -195,6 +195,22 @@
       "status_url": "https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/3sum-1960614/status.md",
       "research_stage": "see-source",
       "verification_status": "see-source"
+    },
+    {
+      "slug": "shor-polyak-fejer",
+      "title": "Shor: Polyak's stepsize and Fejer decrease",
+      "area": "optimization",
+      "mission_url": "https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884",
+      "status_url": "https://prove2.me/theorems/c1e5b79c-600f-4c00-905b-2dabb6316828",
+      "theorem_id": "c1e5b79c-600f-4c00-905b-2dabb6316828",
+      "submission_id": "aa00476a-22a6-4c56-8f1a-0fc4170c030a",
+      "research_stage": "formalization: one milestone completed",
+      "verification_status": "Lean 4.33.1 build and axiom audit passed; platform ACCEPTED",
+      "publication_status": "public Prove2Me proof; no new paper",
+      "graph_status": "proved leaf with definition dependencies; main convergence theorem remains Open and is not connected by a reduction",
+      "source": "Shor (1985), p. 37, equation (2.33)",
+      "source_url": "https://doi.org/10.1007/978-3-642-82118-9",
+      "source_index_url": "https://github.com/Anchen-AI4Math/research-index/blob/55e111bd937b166287c12c394e72b0466c4e7a01/contributions/shor-polyak-fejer/index.json"
     }
   ],
   "repositories": [
