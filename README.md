@@ -82,6 +82,14 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 | 3SUM: sharp binomial tail and exponent 1.999017 | [3sum-sharp-tail](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/3sum-sharp-tail/status.md) |
 | 3SUM: quartic switch and exponent 1.960614 | [3sum-1960614](https://github.com/Anchen-AI4Math/prove2me_workspace/blob/main/missions/3sum-1960614/status.md) |
 
+### Prove2Me 公开贡献
+
+以下条目直接链接公开的平台证明；不表示整个所属任务已经完成。
+
+| 课题 | 本次贡献与验证范围 |
+| --- | --- |
+| [Shor：Polyak 步长与 Fejér 下降](https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884) | [式 (2.33) 单步严格下降不等式已 Proved](https://prove2.me/theorems/c1e5b79c-600f-4c00-905b-2dabb6316828)，提交 `aa00476a-22a6-4c56-8f1a-0fc4170c030a` 为 ACCEPTED；主收敛定理仍 Open，尚无归约连接。[公开贡献索引](contributions/shor-polyak-fejer/index.json) |
+
 ## 如何理解进展
 
 研究阶段与验证状态分开记录：
