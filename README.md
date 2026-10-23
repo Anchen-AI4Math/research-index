@@ -88,7 +88,7 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 
 | 课题 | 本次贡献与验证范围 |
 | --- | --- |
-| [Shor：Polyak 步长与 Fejér 下降](https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884) | [式 (2.33) 单步严格下降不等式已 Proved](https://prove2.me/theorems/c1e5b79c-600f-4c00-905b-2dabb6316828)，提交 `aa00476a-22a6-4c56-8f1a-0fc4170c030a` 为 ACCEPTED；主收敛定理仍 Open，尚无归约连接。[公开贡献索引](contributions/shor-polyak-fejer/index.json) |
+| [Shor：Polyak 收敛、速率与 Fejer 分析](https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884) | 主定理 Proved，7/7 里程碑完成。本轮新增五项里程碑证明及次梯度有界性引理，并为此前已证明的主定理补充真实依赖归约；七次提交 ACCEPTED，源码与依赖路径已核验。[公开贡献与署名索引](contributions/shor-polyak-fejer/index.json) |
 
 ## 如何理解进展
 
