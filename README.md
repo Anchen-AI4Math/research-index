@@ -89,7 +89,7 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 | 课题 | 本次贡献与验证范围 |
 | --- | --- |
 | [Shor：Polyak 收敛、速率与 Fejer 分析](https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884) | 主定理 Proved，7/7 里程碑完成。本轮新增五项里程碑证明及次梯度有界性引理，并为此前已证明的主定理补充真实依赖归约；七次提交 ACCEPTED，源码与依赖路径已核验。[公开贡献与署名索引](contributions/shor-polyak-fejer/index.json) |
-| [准 Fejer–Opial 弱收敛基础](https://prove2.me/theorems/af5a4da3-5947-498b-bb2d-629cc739c5c9) | 完整 Lemma 2.2 与一般 Hilbert 弱子列提取两项提交 ACCEPTED；源码一致性与真实依赖路径已核验。未完成整个 Monotone+Skew 算法任务。[公开贡献索引](contributions/quasi-fejer-opial/index.json) |
+| [准 Fejer–Opial 与非精确 FBF 收敛](https://prove2.me/theorems/8e930f13-4408-4d42-9c3d-24e80ca64486) | 六项提交 ACCEPTED：一般 Hilbert 弱子列、Opial、FBF 残差与弱收敛、乘积 resolvent、原始—对偶存在性等价。源码与真实依赖已核验；含强收敛的整个任务尚未完成。[公开贡献索引](contributions/quasi-fejer-opial/index.json) |
 
 ## 如何理解进展
 
