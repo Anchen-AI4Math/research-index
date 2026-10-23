@@ -7,7 +7,7 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 | 项目 | 研究方向 | 进展与证据入口 |
 | --- | --- | --- |
 | [3SUM](https://github.com/Anchen-AI4Math/3sum) | 算法分析、复杂度与解析证书 | [研究阶段与成果归档](https://github.com/Anchen-AI4Math/3sum#readme) |
-| [Average Sensitivity](https://github.com/Anchen-AI4Math/average-sensitivity-lean) | 多项式阈值函数、Lean 形式化 | [定理、构建方式与验证记录](https://github.com/Anchen-AI4Math/average-sensitivity-lean#readme) |
+| [Average Sensitivity](https://github.com/Anchen-AI4Math/average-sensitivity-lean) | 多项式阈值函数、Lean 形式化 | [1881/500: Lean Verified; Lean + nanoda passed](https://github.com/bigospeedrun/verifier/issues/49#issuecomment-6364666620) |
 | [Prove2Me Workspace](https://github.com/Anchen-AI4Math/prove2me_workspace) | 多课题研究与共享 Lean/Mathlib 环境 | [工作区说明](https://github.com/Anchen-AI4Math/prove2me_workspace#readme) |
 | [Sharp diagonal Hlawka](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates) | 复数 ℓp 最优 Hlawka 常数，p ≥ 21 的计算机辅助证明 | [论文预印本 v2](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/paper/main.pdf) · [完整 Lean / 平台证明通过，零开放依赖](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/formalization/README.md) · [正式 mission 已批准，campaign 认证 cutoff 21](https://prove2.me/missions/8e2bd9f5-57b1-4d55-aab4-a94532a6d6b8) |
 | [Angel–Devil](https://github.com/Anchen-AI4Math/angel-devil) | Berlekamp/Kutz 1 阶围困与 Máthé 2 阶必赢的 Lean 形式化；整数力量完整分类 | [分类 Proved；228 个本地定理验证通过；开放叶子 0](https://github.com/Anchen-AI4Math/angel-devil/blob/main/verification/classification-audit.md) · [统一 mission：分类 Proved，4/4 里程碑完成](https://prove2.me/missions/Angel-Devil%3A_Complete_Integer-Power_Classification) |
