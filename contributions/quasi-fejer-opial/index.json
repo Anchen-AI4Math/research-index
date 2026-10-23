@@ -7,12 +7,12 @@
       "title": "Quasi-Fejer and Opial convergence foundations",
       "theorem_id": "af5a4da3-5947-498b-bb2d-629cc739c5c9",
       "status_url": "https://prove2.me/theorems/af5a4da3-5947-498b-bb2d-629cc739c5c9",
-      "research_stage": "published Opial Lemma 2.2 and general Hilbert weak subsequence extraction formalized; full algorithm mission not completed",
-      "verification_status": "two submissions ACCEPTED; accepted-source matches and real child-to-parent graph path verified; local standard axiom audits passed",
+      "research_stage": "Opial foundations, full inexact FBF Theorem 2.5(i)-(ii), product resolvent and primal-dual existence equivalences formalized; full mission including strong-convergence clauses not completed",
+      "verification_status": "six submissions ACCEPTED; accepted sources match local files, actual public dependency paths verified, standard axiom audits passed",
       "publication_status": "public Prove2Me proofs; no paper or remote research repository",
       "source_url": "https://arxiv.org/abs/1011.5517",
       "mission_url": "https://prove2.me/missions/49179d79-6e83-4d55-a8cc-caa064424a43",
-      "verified_at": "2026-10-23T19:56:40.070003+08:00",
+      "verified_at": "2026-10-23T20:43:06.754867+08:00",
       "contributions": [
         {
           "title": "Hilbert weak subsequence extraction",
@@ -37,6 +37,56 @@
           "source_matches_server": true,
           "graph_verified": true,
           "sha256": "73c653847e61d47e233aed3cade2cc9729c983be8ce6a7110d8190110bee81f4"
+        },
+        {
+          "theorem_id": "8b4d88be-ada1-43c7-97c6-6f4243c4eb71",
+          "submission_id": "352fcbc2-6cf5-4588-ba19-e01985acb734",
+          "status": "ACCEPTED",
+          "source_matches": true,
+          "actual_dependency_graph_verified": true,
+          "sha256": "34ae0e1114a9c2a7e0d0c931e156d53e1a2b97d8fdaebf12e81c7323b05128eb",
+          "title": "Inexact FBF residual square summability (Theorem 2.5(i))",
+          "theorem_url": "https://prove2.me/theorems/8b4d88be-ada1-43c7-97c6-6f4243c4eb71",
+          "expected_children": [
+            "b8681f01-381e-448c-9db5-da40f7c7f284"
+          ],
+          "source_matches_server": true,
+          "graph_verified": true
+        },
+        {
+          "title": "Inexact FBF weak convergence (Theorem 2.5(ii))",
+          "theorem_id": "8e930f13-4408-4d42-9c3d-24e80ca64486",
+          "submission_id": "33a2b04f-4287-494f-8c6e-427c851d0d9f",
+          "theorem_url": "https://prove2.me/theorems/8e930f13-4408-4d42-9c3d-24e80ca64486",
+          "status": "ACCEPTED",
+          "source_matches_server": true,
+          "graph_verified": true,
+          "sha256": "051ea23a94463e09a1416b3d976a56986a05fd7b667624ada24a312e0e5f42b4",
+          "expected_children": [
+            "8b4d88be-ada1-43c7-97c6-6f4243c4eb71",
+            "af5a4da3-5947-498b-bb2d-629cc739c5c9",
+            "b8681f01-381e-448c-9db5-da40f7c7f284"
+          ]
+        },
+        {
+          "title": "Product resolvent (Proposition 2.7(iv))",
+          "theorem_id": "c6c07472-2c0c-4226-8e8e-936b03428ab0",
+          "submission_id": "fcb82a6f-67ce-4b92-ada7-a9910d7f6557",
+          "theorem_url": "https://prove2.me/theorems/c6c07472-2c0c-4226-8e8e-936b03428ab0",
+          "status": "ACCEPTED",
+          "source_matches_server": true,
+          "graph_verified": true,
+          "sha256": "1bc7d615d6469a3e5b869cd59d6ebd5d5fab5b0db684ee9e479c647e7db3fd6f"
+        },
+        {
+          "title": "Primal-dual existence equivalences (Proposition 2.8(ii)-(vi))",
+          "theorem_id": "ce73e73b-fe85-484d-8465-62639e7ee9b1",
+          "submission_id": "d29e29af-19e0-47ac-b5f7-7314ec3f6b4d",
+          "theorem_url": "https://prove2.me/theorems/ce73e73b-fe85-484d-8465-62639e7ee9b1",
+          "status": "ACCEPTED",
+          "source_matches_server": true,
+          "graph_verified": true,
+          "sha256": "ad7561c930b6eec3a89decbd05627f6381839c251cd743d78d572b84c14a1ebc"
         }
       ]
     }
