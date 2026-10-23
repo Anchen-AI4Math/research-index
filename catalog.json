@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "indexed_on": "2026-10-20",
+  "indexed_on": "2026-10-23",
   "source_repository": "Anchen-AI4Math/prove2me_workspace",
   "source_commit": "d4934b2df43c0d63150a3b0348d3084e5e04bd4a",
   "missions": [
@@ -198,19 +198,115 @@
     },
     {
       "slug": "shor-polyak-fejer",
-      "title": "Shor: Polyak's stepsize and Fejer decrease",
+      "title": "Shor: Polyak convergence, rates and Fejer analysis",
       "area": "optimization",
       "mission_url": "https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884",
-      "status_url": "https://prove2.me/theorems/c1e5b79c-600f-4c00-905b-2dabb6316828",
+      "status_url": "https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884",
       "theorem_id": "c1e5b79c-600f-4c00-905b-2dabb6316828",
       "submission_id": "aa00476a-22a6-4c56-8f1a-0fc4170c030a",
-      "research_stage": "formalization: one milestone completed",
-      "verification_status": "Lean 4.33.1 build and axiom audit passed; platform ACCEPTED",
-      "publication_status": "public Prove2Me proof; no new paper",
-      "graph_status": "proved leaf with definition dependencies; main convergence theorem remains Open and is not connected by a reduction",
-      "source": "Shor (1985), p. 37, equation (2.33)",
+      "research_stage": "formalization of published results; mission root Proved and 7/7 milestones completed; this run proved five milestones and one reusable auxiliary theorem",
+      "verification_status": "seven submissions ACCEPTED; local Lean 4.33.1 exact-type and standard-axiom checks; accepted source hashes match",
+      "publication_status": "public Prove2Me proofs and reuse reduction; no new paper or remote research repository",
+      "graph_status": "verified single-step dependencies into rates and root; bounded-subgradient dependencies into inconsistent bound and root; CFM direction into angle; strict Fejer remains an independent leaf",
+      "source": "Shor (1985), equations (2.33) and Theorems 2.10-2.16; corrected platform statements",
       "source_url": "https://doi.org/10.1007/978-3-642-82118-9",
-      "source_index_url": "https://github.com/Anchen-AI4Math/research-index/blob/55e111bd937b166287c12c394e72b0466c4e7a01/contributions/shor-polyak-fejer/index.json"
+      "source_index_url": "https://github.com/Anchen-AI4Math/research-index/blob/7c87e92c93e0484cf72115554c0088672e70bd4a/contributions/shor-polyak-fejer/index.json",
+      "verified_at": "2026-10-23T19:29:07.078967+08:00",
+      "milestones_completed": 7,
+      "milestones_total": 7,
+      "root_first_proof_attribution": "Nickrobbins95; already Proved before this run",
+      "new_open_declarations_proved": 6,
+      "new_milestones_proved": 5,
+      "contributions": [
+        {
+          "title": "Theorem 2.10: continuous strict Fejer map convergence",
+          "theorem_id": "e4545150-90c5-4cd6-880a-b5cc058767f9",
+          "submission_id": "9ea84553-a1c3-4d8e-9f96-c2f9655b5184",
+          "theorem_url": "https://prove2.me/theorems/e4545150-90c5-4cd6-880a-b5cc058767f9",
+          "status": "ACCEPTED",
+          "claim": "new proof of previously open platform declaration",
+          "graph_verified": true,
+          "expected_children": [],
+          "sha256": "cb9af49c3b8f49ecc1b86b0c835d9094609dce0d97cd7a40c28354baa6f1bbce"
+        },
+        {
+          "title": "Theorem 2.13: sharp-minimum step bound",
+          "theorem_id": "44588c40-47db-4cf1-8787-c79c28e7b4b6",
+          "submission_id": "73616625-5564-42bb-90d9-b43b25391ffe",
+          "theorem_url": "https://prove2.me/theorems/44588c40-47db-4cf1-8787-c79c28e7b4b6",
+          "status": "ACCEPTED",
+          "claim": "new proof of previously open platform declaration",
+          "graph_verified": true,
+          "expected_children": [
+            "c1e5b79c-600f-4c00-905b-2dabb6316828"
+          ],
+          "sha256": "72ea799734c6bad221177b9545708464642b49c53ff3f0f25c60804c51ddfda7"
+        },
+        {
+          "title": "Theorem 2.12: quadratic-growth geometric rate",
+          "theorem_id": "5cd9a644-dd50-4b48-b944-c89b9c1a7432",
+          "submission_id": "122f7211-e6e8-46de-be0f-03948ff86cc3",
+          "theorem_url": "https://prove2.me/theorems/5cd9a644-dd50-4b48-b944-c89b9c1a7432",
+          "status": "ACCEPTED",
+          "claim": "new proof of previously open platform declaration",
+          "graph_verified": true,
+          "expected_children": [
+            "c1e5b79c-600f-4c00-905b-2dabb6316828"
+          ],
+          "sha256": "08bf4c5b9cca5ef32c1d1377b37aa9dee12bf1ba0f082eadd2b45243f46ce894"
+        },
+        {
+          "title": "Theorem 2.16: CFM angle comparison",
+          "theorem_id": "96b001a3-e4e9-4080-b262-b53363361161",
+          "submission_id": "59e8b7dc-7d7b-4e23-91eb-03cd353c6e1b",
+          "theorem_url": "https://prove2.me/theorems/96b001a3-e4e9-4080-b262-b53363361161",
+          "status": "ACCEPTED",
+          "claim": "new proof of previously open platform declaration",
+          "graph_verified": true,
+          "expected_children": [
+            "fe1180a8-5981-45e8-a2c0-b24aacc73c36"
+          ],
+          "sha256": "ce3bc2999392a0d7d3e063326c6dafcc980743c7d3042356e74c361417c35113"
+        },
+        {
+          "title": "Subgradients uniformly bounded on bounded sets",
+          "theorem_id": "c7b0066a-57e1-4d56-ad14-e6e3700b02b9",
+          "submission_id": "8c40f1ae-e266-46e2-a509-430dc46f255a",
+          "theorem_url": "https://prove2.me/theorems/c7b0066a-57e1-4d56-ad14-e6e3700b02b9",
+          "status": "ACCEPTED",
+          "claim": "new proof of previously open platform declaration",
+          "graph_verified": true,
+          "expected_children": [],
+          "sha256": "381821cfbe0ed8a07c8ebe9ebf62356ed99c7a554d678ef12b6776ea0aca74c1"
+        },
+        {
+          "title": "Theorem 2.14: inconsistent target best-value bound",
+          "theorem_id": "cf14282a-bd90-438f-a729-e43e505eec46",
+          "submission_id": "f5cbad90-7e86-4388-a4d0-5425f8b65cb2",
+          "theorem_url": "https://prove2.me/theorems/cf14282a-bd90-438f-a729-e43e505eec46",
+          "status": "ACCEPTED",
+          "claim": "new proof of previously open platform declaration",
+          "graph_verified": true,
+          "expected_children": [
+            "c7b0066a-57e1-4d56-ad14-e6e3700b02b9"
+          ],
+          "sha256": "7a92215d83a4276fde27ba3d893c4bf967a43c12f90170205145926255d86303"
+        },
+        {
+          "title": "Theorem 2.11: reuse and graph integration",
+          "theorem_id": "1718cc07-0242-4a18-953f-16c107596744",
+          "submission_id": "866c6793-e834-4879-8126-c5d9b8ccc306",
+          "theorem_url": "https://prove2.me/theorems/1718cc07-0242-4a18-953f-16c107596744",
+          "status": "ACCEPTED",
+          "claim": "dependency integration of previously proved theorem",
+          "graph_verified": true,
+          "expected_children": [
+            "c1e5b79c-600f-4c00-905b-2dabb6316828",
+            "c7b0066a-57e1-4d56-ad14-e6e3700b02b9"
+          ],
+          "sha256": "7b443fc3ae913695c34c5cff99d2fde06c7a722ac58581c269cb8af02f412221"
+        }
+      ]
     }
   ],
   "repositories": [
