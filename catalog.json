@@ -310,15 +310,15 @@
     },
     {
       "slug": "quasi-fejer-opial",
-      "title": "Quasi-Fejer and Opial convergence foundations",
-      "theorem_id": "af5a4da3-5947-498b-bb2d-629cc739c5c9",
-      "status_url": "https://prove2.me/theorems/af5a4da3-5947-498b-bb2d-629cc739c5c9",
-      "research_stage": "Opial foundations, full inexact FBF Theorem 2.5(i)-(ii), product resolvent and primal-dual existence equivalences formalized; full mission including strong-convergence clauses not completed",
-      "verification_status": "six submissions ACCEPTED; accepted sources match local files, actual public dependency paths verified, standard axiom audits passed",
+      "title": "Quasi-Fejer, inexact FBF and primal-dual convergence",
+      "theorem_id": "3524d2ee-fc02-4016-8a0c-fa4624f408b7",
+      "status_url": "https://prove2.me/theorems/3524d2ee-fc02-4016-8a0c-fa4624f408b7",
+      "research_stage": "Published Theorem 3.1 fully formalized, including both uniform-monotonicity strong-convergence clauses; all eight mission milestones proved",
+      "verification_status": "nine submissions ACCEPTED; accepted-source matches and genuine dependency paths verified; local standard-axiom audits passed",
       "publication_status": "public Prove2Me proofs; no paper or remote research repository",
       "source_url": "https://arxiv.org/abs/1011.5517",
       "mission_url": "https://prove2.me/missions/49179d79-6e83-4d55-a8cc-caa064424a43",
-      "verified_at": "2026-10-23T20:43:06.754867+08:00",
+      "verified_at": "2026-10-23T21:43:43.813671+08:00",
       "contributions": [
         {
           "title": "Hilbert weak subsequence extraction",
@@ -393,9 +393,56 @@
           "source_matches_server": true,
           "graph_verified": true,
           "sha256": "ad7561c930b6eec3a89decbd05627f6381839c251cd743d78d572b84c14a1ebc"
+        },
+        {
+          "theorem_id": "3e48beb5-059e-4802-96b3-1466dfa91a9c",
+          "submission_id": "262a768a-2749-4910-9366-2a59ff7f3011",
+          "status": "ACCEPTED",
+          "source_matches_server": true,
+          "graph_verified": true,
+          "sha256": "a76d6cc0059051b6c4771a0f291464a1447edb227576a81815f44021ce1d1671",
+          "title": "Product maximal monotonicity and skew structure (Proposition 2.7(i)-(iii))",
+          "theorem_url": "https://prove2.me/theorems/3e48beb5-059e-4802-96b3-1466dfa91a9c"
+        },
+        {
+          "theorem_id": "660059db-1989-4a9b-bb9a-7052de75f9b1",
+          "submission_id": "8cbc44a3-44d6-49cb-8504-cc864d3ba70e",
+          "status": "ACCEPTED",
+          "source_matches_server": true,
+          "graph_verified": true,
+          "expected_children": [
+            "3e48beb5-059e-4802-96b3-1466dfa91a9c"
+          ],
+          "sha256": "adf292585769cd8bac4890634a31233b0883107d182a7d80a5afab8f27c1cb7a",
+          "title": "Closed convex product zero set (Proposition 2.8(i))",
+          "theorem_url": "https://prove2.me/theorems/660059db-1989-4a9b-bb9a-7052de75f9b1"
+        },
+        {
+          "title": "Full primal-dual convergence, including uniform-monotonicity strong convergence (Theorem 3.1)",
+          "theorem_id": "3524d2ee-fc02-4016-8a0c-fa4624f408b7",
+          "submission_id": "d24bea90-0d90-46b7-9747-928f0c9b725b",
+          "theorem_url": "https://prove2.me/theorems/3524d2ee-fc02-4016-8a0c-fa4624f408b7",
+          "status": "ACCEPTED",
+          "source_matches_server": true,
+          "graph_verified": true,
+          "expected_children": [
+            "8b4d88be-ada1-43c7-97c6-6f4243c4eb71",
+            "8e930f13-4408-4d42-9c3d-24e80ca64486",
+            "3e48beb5-059e-4802-96b3-1466dfa91a9c",
+            "c6c07472-2c0c-4226-8e8e-936b03428ab0",
+            "660059db-1989-4a9b-bb9a-7052de75f9b1",
+            "ce73e73b-fe85-484d-8465-62639e7ee9b1",
+            "b8681f01-381e-448c-9db5-da40f7c7f284"
+          ],
+          "sha256": "4af57a87c37d0b700d104bcb3d05f49826c1d78c62529f0aec70b1d9fef471ae"
         }
       ],
-      "source_index_url": "https://github.com/Anchen-AI4Math/research-index/blob/3d9f3c01be64dd0c461dd6607287028d920ea6b9/contributions/quasi-fejer-opial/index.json"
+      "mission_milestones": {
+        "completed": 8,
+        "total": 8,
+        "preexisting_proof": "GradErrors.Deterministic.lemma_1 by mrfancypants"
+      },
+      "source_index_url": "https://github.com/Anchen-AI4Math/research-index/blob/56c3d077faf1c36ef392c10c094fb904e7c2e820/contributions/quasi-fejer-opial/index.json"
     }
   ],
   "repositories": [
