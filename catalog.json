@@ -307,6 +307,45 @@
           "sha256": "7b443fc3ae913695c34c5cff99d2fde06c7a722ac58581c269cb8af02f412221"
         }
       ]
+    },
+    {
+      "slug": "quasi-fejer-opial",
+      "title": "Quasi-Fejer and Opial convergence foundations",
+      "theorem_id": "af5a4da3-5947-498b-bb2d-629cc739c5c9",
+      "status_url": "https://prove2.me/theorems/af5a4da3-5947-498b-bb2d-629cc739c5c9",
+      "research_stage": "published Opial Lemma 2.2 and general Hilbert weak subsequence extraction formalized; full algorithm mission not completed",
+      "verification_status": "two submissions ACCEPTED; accepted-source matches and real child-to-parent graph path verified; local standard axiom audits passed",
+      "publication_status": "public Prove2Me proofs; no paper or remote research repository",
+      "source_url": "https://arxiv.org/abs/1011.5517",
+      "mission_url": "https://prove2.me/missions/49179d79-6e83-4d55-a8cc-caa064424a43",
+      "verified_at": "2026-10-23T19:56:40.070003+08:00",
+      "contributions": [
+        {
+          "title": "Hilbert weak subsequence extraction",
+          "theorem_id": "17905530-1e14-4a39-857c-87e5e1a2e447",
+          "submission_id": "a63056ae-6466-4e8f-8ec2-6a8202495e9d",
+          "theorem_url": "https://prove2.me/theorems/17905530-1e14-4a39-857c-87e5e1a2e447",
+          "status": "ACCEPTED",
+          "expected_children": [],
+          "source_matches_server": true,
+          "graph_verified": true,
+          "sha256": "989ab2808758508ed35bc6fd4f6783ace28154662dfa896f11c06df591bae7d3"
+        },
+        {
+          "title": "Quasi-Fejer Opial lemma (MonoSkew Lemma 2.2)",
+          "theorem_id": "af5a4da3-5947-498b-bb2d-629cc739c5c9",
+          "submission_id": "45411e1c-d4c8-4a9b-a1cd-dae7a2e14807",
+          "theorem_url": "https://prove2.me/theorems/af5a4da3-5947-498b-bb2d-629cc739c5c9",
+          "status": "ACCEPTED",
+          "expected_children": [
+            "17905530-1e14-4a39-857c-87e5e1a2e447"
+          ],
+          "source_matches_server": true,
+          "graph_verified": true,
+          "sha256": "73c653847e61d47e233aed3cade2cc9729c983be8ce6a7110d8190110bee81f4"
+        }
+      ],
+      "source_index_url": "https://github.com/Anchen-AI4Math/research-index/blob/fcf017dea765186ed64cc6735d1d4b66166ddae9/contributions/quasi-fejer-opial/index.json"
     }
   ],
   "repositories": [
