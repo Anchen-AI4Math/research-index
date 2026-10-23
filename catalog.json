@@ -391,6 +391,19 @@
       "main_theorem_id": "78319c36-be90-44b7-ae39-6f212616b326",
       "completed_milestones": 4,
       "mission_evidence_url": "https://github.com/Anchen-AI4Math/angel-devil/blob/f2709e37c0bbd59481ce4a19dee9422bdc4347c1/verification/classification-mission/after.json"
+    },
+    {
+      "full_name": "Anchen-AI4Math/average-sensitivity-lean",
+      "url": "https://github.com/Anchen-AI4Math/average-sensitivity-lean",
+      "title": "Average Sensitivity",
+      "research_stage": "Formal proof of the polynomial-threshold average-sensitivity bound with coefficient 1881/500",
+      "verification_status": "Lean Verified by Big O Speedrun; Lean Comparator, allowed-axiom audit and nanoda passed",
+      "verification_url": "https://github.com/bigospeedrun/verifier/issues/49#issuecomment-6364666620",
+      "workflow_url": "https://github.com/bigospeedrun/verifier/actions/runs/39951071637",
+      "source_commit": "cb8c10538e613329be16f9a949d0d75a4c7c67f0",
+      "bound": "1881/500",
+      "verified_on": "2026-10-23",
+      "publication_status": "Public proof repository; statement merged in bigospeedrun/verifier PR #15; no novelty or priority claim from verification"
     }
   ]
 }
