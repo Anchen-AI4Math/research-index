@@ -1,0 +1,49 @@
+{
+  "slug": "bbd-ann",
+  "title": "BBD-tree approximate nearest-neighbor search: two geometric lemmas",
+  "area": "algorithms-and-computational-geometry",
+  "mission_id": "ec4a6855-4424-44b2-aa7d-8554d2c274be",
+  "mission_url": "https://prove2.me/missions/ec4a6855-4424-44b2-aa7d-8554d2c274be",
+  "root_theorem_id": "212919b4-d13c-473f-a2c8-8e11b6c6ac00",
+  "root_status": "Open",
+  "research_stage": "formalization of published results; two geometric milestones proved; full BBD ANN mission remains open",
+  "verification_status": "two submissions ACCEPTED; accepted source bytes exactly match locally validated solutions; local shared-cache caveat retained",
+  "publication_status": "two public Prove2Me proofs; no new paper or public topic repository",
+  "graph_status": "both proved statements are direct leaves with only their original definition structural edges; mission root graph has no proof edge to these leaves",
+  "source": "Arya et al., An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions, J. ACM 45(6), 1998, pp. 909 and 912",
+  "source_url": "https://doi.org/10.1145/293347.293348",
+  "verified_at": "2026-10-24T09:51:51.477463+00:00",
+  "milestones_completed": 3,
+  "milestones_total": 6,
+  "new_milestones_proved": 2,
+  "contributions": [
+    {
+      "target": "rect-diam",
+      "theorem_id": "20fe6f3f-1f68-46b8-9c3f-d13b96cd44f3",
+      "submission_id": "c46d34f8-1934-400a-9a0a-b591188523ab",
+      "status": "ACCEPTED",
+      "source_matches_server_exactly": true,
+      "sha256": "5a31f202b7b3f7020f9058443fab27eb81df3b8dc0d8ab8fff9d0e4332f9b91b",
+      "theorem_url": "https://prove2.me/theorems/20fe6f3f-1f68-46b8-9c3f-d13b96cd44f3",
+      "title": "Rectangle diameter: coarse and sharp dimension bounds",
+      "graph_status": "direct leaf; only original definition structural dependency; no downstream root proof edge",
+      "graph_verified": true,
+      "expected_children": [],
+      "accepted_at": "2026-10-24T09:47:56.112996+00:00"
+    },
+    {
+      "target": "box-count",
+      "theorem_id": "612c0a31-3699-4a67-bdc7-3f0e595fcb76",
+      "submission_id": "7f699598-3c31-4926-9fb4-9d2730b4b3e9",
+      "status": "ACCEPTED",
+      "source_matches_server_exactly": true,
+      "sha256": "5de3197464d24dd89cb3f9bc403143012905961bde5787bbc4bf601d6d8b7fb8",
+      "theorem_url": "https://prove2.me/theorems/612c0a31-3699-4a67-bdc7-3f0e595fcb76",
+      "title": "Interior-disjoint boxes meeting an open Minkowski ball",
+      "graph_status": "direct leaf; only original definition structural dependency; no downstream root proof edge",
+      "graph_verified": true,
+      "expected_children": [],
+      "accepted_at": "2026-10-24T09:47:52.654915+00:00"
+    }
+  ]
+}
