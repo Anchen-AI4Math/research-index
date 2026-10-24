@@ -91,6 +91,8 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 | [Shor：Polyak 收敛、速率与 Fejer 分析](https://prove2.me/missions/72b6c65f-d58c-4552-a22b-c94a95f07884) | 主定理 Proved，7/7 里程碑完成。本轮新增五项里程碑证明及次梯度有界性引理，并为此前已证明的主定理补充真实依赖归约；七次提交 ACCEPTED，源码与依赖路径已核验。[公开贡献与署名索引](contributions/shor-polyak-fejer/index.json) |
 | [准 Fejer、非精确 FBF 与原始—对偶收敛](https://prove2.me/theorems/3524d2ee-fc02-4016-8a0c-fa4624f408b7) | 主定理 3.1（含两项一致单调性强收敛结论）及全部 8 个任务里程碑已证明。九项形式化提交 ACCEPTED，源码与真实依赖已核验；复用既有 GradErrors 引理。[公开贡献索引](contributions/quasi-fejer-opial/index.json) |
 
+| [BBD-tree ANN：几何计数引理](https://prove2.me/missions/ec4a6855-4424-44b2-aa7d-8554d2c274be) | [矩形直径](https://prove2.me/theorems/20fe6f3f-1f68-46b8-9c3f-d13b96cd44f3)与[开球相交盒子计数](https://prove2.me/theorems/612c0a31-3699-4a67-bdc7-3f0e595fcb76)两项提交 ACCEPTED；本次核验里程碑 3/6，根任务仍 Open，尚无连接到根的证明归约。[公开贡献索引](contributions/bbd-ann/index.json) |
+
 ## 如何理解进展
 
 研究阶段与验证状态分开记录：
