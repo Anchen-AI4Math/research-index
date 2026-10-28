@@ -1,0 +1,103 @@
+{
+  "slug": "network-inspection",
+  "title": "Network inspection: equilibrium detection rate and strategies",
+  "area": "security-and-privacy",
+  "mission_id": "837887d1-e68e-4381-bc5a-ad88e459aa14",
+  "mission_url": "https://prove2.me/missions/837887d1-e68e-4381-bc5a-ad88e459aa14",
+  "root_theorem_id": "2c212a8b-c3df-4cd8-8a63-4c899a3f4363",
+  "root_status": "Proved",
+  "research_stage": "formalization of published results completed",
+  "verification_status": "all mission milestones completed; submissions ACCEPTED; accepted source bytes exactly match locally checked sources; actual root dependency edges verified",
+  "publication_status": "public Prove2Me formalizations; no new mathematical result or journal publication claimed",
+  "graph_status": "root proof dependencies verified",
+  "root_children": [
+    "0a620d41-2e43-4e36-90bb-308abec7af05",
+    "226ddcd6-e7a7-4ce3-8808-86ac78d2e12b",
+    "db36b00c-8f14-4111-aff9-4bf2ced28ca8",
+    "de615f2e-3072-4661-b257-d0897286ac0c"
+  ],
+  "source_url": "https://arxiv.org/abs/1705.00349",
+  "verified_at": "2026-10-28T06:26:43.293093+00:00",
+  "milestones_completed": 8,
+  "milestones_total": 8,
+  "contributions": [
+    {
+      "target": "EC4",
+      "theorem_id": "226ddcd6-e7a7-4ce3-8808-86ac78d2e12b",
+      "theorem_url": "https://prove2.me/theorems/226ddcd6-e7a7-4ce3-8808-86ac78d2e12b",
+      "status": "ACCEPTED",
+      "submission_id": "1bff656e-1393-474a-a103-5526cca099a6",
+      "source_matches_server_exactly": true,
+      "sha256": "c567dcda493c84705d39ce579a76f0edbfc42e9e52d0ed36f7436fc6d06c8dfa"
+    },
+    {
+      "target": "Eq18V2",
+      "theorem_id": "ea24405a-7f4a-41b9-abeb-96ced086ff14",
+      "theorem_url": "https://prove2.me/theorems/ea24405a-7f4a-41b9-abeb-96ced086ff14",
+      "status": "ACCEPTED",
+      "submission_id": "648a02ea-fa80-4557-9254-c2a88c43b698",
+      "source_matches_server_exactly": true,
+      "sha256": "c7281525bc8d08a80a56f05a87cfd241039aec57e8d1d0ed5129f8898daf2575"
+    },
+    {
+      "target": "Proposition1",
+      "theorem_id": "7abbf57f-b1c7-48d8-9734-29026818b33d",
+      "theorem_url": "https://prove2.me/theorems/7abbf57f-b1c7-48d8-9734-29026818b33d",
+      "status": "ACCEPTED",
+      "submission_id": "a68f6fc6-970a-4957-a80f-50d7abf06d0e",
+      "source_matches_server_exactly": true,
+      "sha256": "c58419e1f4c7fc20aad6afb32169956a198913478458ba8358a89ae3717a8abf"
+    },
+    {
+      "target": "RootV2",
+      "theorem_id": "2c212a8b-c3df-4cd8-8a63-4c899a3f4363",
+      "theorem_url": "https://prove2.me/theorems/2c212a8b-c3df-4cd8-8a63-4c899a3f4363",
+      "status": "ACCEPTED",
+      "submission_id": "b03be2a2-07e1-483d-bac1-9b09dfc34a70",
+      "source_matches_server_exactly": true,
+      "sha256": "c51214f80353443369fd32bb8cf07ed6abaf3fe513d1795708f23f843038a0cb"
+    },
+    {
+      "target": "StepIA",
+      "theorem_id": "de615f2e-3072-4661-b257-d0897286ac0c",
+      "theorem_url": "https://prove2.me/theorems/de615f2e-3072-4661-b257-d0897286ac0c",
+      "status": "ACCEPTED",
+      "submission_id": "b286782b-6059-486d-adb0-126be6e4772b",
+      "source_matches_server_exactly": true,
+      "sha256": "198967cdeaf7e931ee4e9abface2841d564dc49f1ed6d68ca317babfb8cb813e"
+    },
+    {
+      "target": "Theorem1",
+      "theorem_id": "46d6a02e-fd8e-4a2f-a26d-ed41757f588b",
+      "theorem_url": "https://prove2.me/theorems/46d6a02e-fd8e-4a2f-a26d-ed41757f588b",
+      "status": "ACCEPTED",
+      "submission_id": "c4a807d7-5e3f-470e-aefc-e11a59c73497",
+      "source_matches_server_exactly": true,
+      "sha256": "72bf2330e8d3c958a95f8bb3e377f5bf57a161bc0b2ce06fe760a5a1314a4e6f"
+    }
+  ],
+  "local_validation": {
+    "lean": "4.33.1",
+    "mathlib_revision": "0df444a360eaa60ab8c11dca51a86af692955474",
+    "allowed_axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "fresh_cache_reproduction": false
+  },
+  "status_url": "https://prove2.me/theorems/2c212a8b-c3df-4cd8-8a63-4c899a3f4363",
+  "preexisting_milestones": [
+    "NetInspect.Rate.corollary_EC_1",
+    "NetInspect.Rate.lemma_EC_2",
+    "NetInspect.Rate.lemma_EC_3"
+  ],
+  "reused_source": [
+    {
+      "theorem_id": "3ec03ce9-adac-449a-8dc3-b82ba129e0b2",
+      "submission_id": "226a4562-8753-4fb9-b479-1c8352ed45dc",
+      "author": "shivm",
+      "scope": "Proposition 1 reuses cyclic-strategy auxiliary proofs from the existing accepted EC.3 proof; these are not claimed as new contributions."
+    }
+  ]
+}
