@@ -93,6 +93,9 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 
 | [BBD-tree ANN：几何计数引理](https://prove2.me/missions/ec4a6855-4424-44b2-aa7d-8554d2c274be) | [矩形直径](https://prove2.me/theorems/20fe6f3f-1f68-46b8-9c3f-d13b96cd44f3)与[开球相交盒子计数](https://prove2.me/theorems/612c0a31-3699-4a67-bdc7-3f0e595fcb76)两项提交 ACCEPTED；本次核验里程碑 3/6，根任务仍 Open，尚无连接到根的证明归约。[公开贡献索引](contributions/bbd-ann/index.json) |
 
+| [差分隐私：VC 维数误差下界](https://prove2.me/theorems/76a1cb7d-7a8a-45ea-a8ea-f916e463eff4) | 根定理 Proved，3/3 里程碑完成；2 项提交 ACCEPTED，提交源码与根依赖已核验。[公开贡献索引](contributions/private-release-vc/index.json) |
+| [网络巡检：均衡检测率与防守策略](https://prove2.me/theorems/2c212a8b-c3df-4cd8-8a63-4c899a3f4363) | 根定理 Proved，8/8 里程碑完成；6 项提交 ACCEPTED，提交源码与根依赖已核验。[公开贡献索引](contributions/network-inspection/index.json) |
+
 ## 如何理解进展
 
 研究阶段与验证状态分开记录：
