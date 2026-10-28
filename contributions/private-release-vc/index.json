@@ -1,0 +1,51 @@
+{
+  "slug": "private-release-vc",
+  "title": "Differential privacy: VC-dimension lower bound",
+  "area": "security-and-privacy",
+  "mission_id": "1d17779b-332c-4a0a-84da-b6f40b6e2ec4",
+  "mission_url": "https://prove2.me/missions/1d17779b-332c-4a0a-84da-b6f40b6e2ec4",
+  "root_theorem_id": "76a1cb7d-7a8a-45ea-a8ea-f916e463eff4",
+  "root_status": "Proved",
+  "research_stage": "formalization of published results completed",
+  "verification_status": "all mission milestones completed; submissions ACCEPTED; accepted source bytes exactly match locally checked sources; actual root dependency edges verified",
+  "publication_status": "public Prove2Me formalizations; no new mathematical result or journal publication claimed",
+  "graph_status": "root proof dependencies verified",
+  "root_children": [
+    "7ec59035-5be3-45e1-8833-7573861e21c8"
+  ],
+  "source_url": "https://arxiv.org/abs/1109.2229",
+  "verified_at": "2026-10-28T06:26:39.573185+00:00",
+  "milestones_completed": 3,
+  "milestones_total": 3,
+  "contributions": [
+    {
+      "target": "Explicit",
+      "theorem_id": "7ec59035-5be3-45e1-8833-7573861e21c8",
+      "theorem_url": "https://prove2.me/theorems/7ec59035-5be3-45e1-8833-7573861e21c8",
+      "status": "ACCEPTED",
+      "submission_id": "c1869e17-5f04-49fc-92d7-15aa9ea18ad8",
+      "source_matches_server_exactly": true,
+      "sha256": "e7b543a60b731e48c4703f8a6e3eff62f7786459558a53f42b38f8802e0abc79"
+    },
+    {
+      "target": "RootReduction",
+      "theorem_id": "76a1cb7d-7a8a-45ea-a8ea-f916e463eff4",
+      "theorem_url": "https://prove2.me/theorems/76a1cb7d-7a8a-45ea-a8ea-f916e463eff4",
+      "status": "ACCEPTED",
+      "submission_id": "5cd705ee-384e-4edb-acfe-d73d360a99b3",
+      "source_matches_server_exactly": true,
+      "sha256": "5cfb8f0702717fc13f05d172ad70481bc69a3f24dbafc936dd666b72b726be39"
+    }
+  ],
+  "local_validation": {
+    "lean": "4.33.1",
+    "mathlib_revision": "0df444a360eaa60ab8c11dca51a86af692955474",
+    "allowed_axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "fresh_cache_reproduction": false
+  },
+  "status_url": "https://prove2.me/theorems/76a1cb7d-7a8a-45ea-a8ea-f916e463eff4"
+}
