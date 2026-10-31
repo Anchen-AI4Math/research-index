@@ -1,60 +1,131 @@
 {
   "slug": "odd-goldbach",
-  "title": "Every odd integer greater than one is a sum of at most 21 primes",
+  "title": "Every odd integer greater than one is a sum of at most 19 primes",
   "area": "number-theory",
-  "mission_id": "949b9301-86ab-438d-8b33-5acc29e21fa6",
-  "mission_url": "https://prove2.me/missions/949b9301-86ab-438d-8b33-5acc29e21fa6",
-  "root_theorem_id": "7c518abe-0516-466f-bd05-bade32a648a0",
-  "status_url": "https://prove2.me/theorems/7c518abe-0516-466f-bd05-bade32a648a0",
+  "mission_id": "276f36e4-c119-430a-8ba3-94ec566f6249",
+  "mission_url": "https://prove2.me/missions/276f36e4-c119-430a-8ba3-94ec566f6249",
+  "root_theorem_id": "eae9b904-d94e-4f77-abbe-db087c0bd740",
+  "status_url": "https://prove2.me/theorems/eae9b904-d94e-4f77-abbe-db087c0bd740",
   "root_status": "Proved",
   "campaign_url": "https://prove2.me/campaigns/odd-goldbach",
-  "attested_value": "21",
-  "recorded_at": "2026-10-30T14:07:46.920967+00:00",
-  "research_stage": "formalized quantitative refinement from 23 to 21; three-prime objective remains open",
-  "verification_status": "three submissions ACCEPTED; accepted source bytes match local submission files exactly; two milestones completed; root dependency paths verified; root open-leaves endpoint returns zero",
-  "publication_status": "public Prove2Me mission and attested campaign value 21; no journal publication or novelty priority claim",
-  "graph_status": "root reduction genuinely imports both counting milestones; root open leaves zero; graph view also contains unused alternative decompositions and is truncated",
-  "milestones_completed": 2,
-  "milestones_total": 2,
-  "root_submission_id": "60dbfdb6-b7d7-4d63-aba6-84b1d2e977d0",
+  "attested_value": "19",
+  "recorded_at": "2026-10-31T02:53:11.942132+00:00",
+  "research_stage": "formalization of the known 19-prime odd-integer bound of Riesel and Vaughan (1983); three-prime objective remains open",
+  "verification_status": "root submission ACCEPTED; accepted root source bytes match the local proof exactly; four milestones completed; accepted root dependency paths audited and current root open-leaves endpoint returns zero",
+  "publication_status": "public Prove2Me mission launched by the user and campaign value 19 attested; no journal publication or novelty priority claim",
+  "graph_status": "accepted root genuinely uses the small-density, medium-count and large-count theorems; accepted supporting chain and finite certificate audited; current root open leaves zero; graph views may be truncated",
+  "milestones_completed": 4,
+  "milestones_total": 4,
+  "root_submission_id": "1269553f-f531-40ef-b432-347a37a1c4ed",
   "root_children": [
-    "15b67083-2a41-4812-aba7-de384b77735f",
     "4ed167fa-dec1-44dd-92be-c835fb0d16d5",
-    "55b5ef4e-f71c-4097-9272-97193118028a",
-    "d4cf496a-eed1-4284-8d5d-f9cfbfb07786",
-    "ead17a5f-fdbd-4605-a18f-e0cca9ddf480"
+    "72dc6a27-5992-4d42-8441-555fb65bebea",
+    "d0641bda-022b-49b2-803c-a9ec60af7910",
+    "d2bf1a8e-15a8-49ee-b2cd-46bb48bc90dd",
+    "55b5ef4e-f71c-4097-9272-97193118028a"
   ],
   "contributions": [
     {
-      "theorem_id": "15b67083-2a41-4812-aba7-de384b77735f",
-      "target": "Medium-range count, 19 <= log n <= 300",
-      "submission_id": "af38c379-ba00-4ce7-8663-aa1466c6963a",
+      "theorem_id": "eae9b904-d94e-4f77-abbe-db087c0bd740",
+      "target": "19-prime campaign endpoint",
+      "submission_id": "1269553f-f531-40ef-b432-347a37a1c4ed",
       "status": "ACCEPTED",
       "source_matches_server_exactly": true,
-      "sha256": "29efa1b7e5991902691d57d709defe886ac0bf1942ee2c06e75b0800cd5c06d0"
-    },
-    {
-      "theorem_id": "ead17a5f-fdbd-4605-a18f-e0cca9ddf480",
-      "target": "Large-range count, n >= exp(300)",
-      "submission_id": "1ef22bd5-9d7e-4557-8535-7987042f0d8a",
-      "status": "ACCEPTED",
-      "source_matches_server_exactly": true,
-      "sha256": "dd96e71d66bcb1941f553e5634fc2fedf01f2c011d61b6a522b0ddd204e9d78a"
-    },
-    {
-      "theorem_id": "7c518abe-0516-466f-bd05-bade32a648a0",
-      "target": "21-prime campaign endpoint",
-      "submission_id": "60dbfdb6-b7d7-4d63-aba6-84b1d2e977d0",
-      "status": "ACCEPTED",
-      "source_matches_server_exactly": true,
-      "sha256": "878565fdf3ba24eab857d537cb2637ba58e5c88d51caa5e6b3b42f1f0220851c"
+      "sha256": "f04991cc168aa03efbe8a8dfd893014622491f6431963a2780e0c2c2beb1a102"
     }
   ],
   "local_validation": {
     "lean": "4.33.1",
     "mathlib_revision": "0df444a360eaa60ab8c11dca51a86af692955474",
     "fresh_cache_reproduction": false,
-    "caveat": "Local pre-existing platform theorem mirrors contain placeholders. Full independent reconstruction of those inputs was not performed; closure is supported by platform statuses and root open-leaves query."
+    "caveat": "The new root and its supporting chain were checked on Prove2Me and source/dependency audits were recorded. Local pre-existing theorem mirrors include placeholders; a full independent clean-cache reconstruction of prior public inputs was not performed."
   },
-  "verified_at": "2026-10-30T15:41:30.946183+00:00"
+  "verified_at": "2026-10-31T03:20:34.318927+00:00",
+  "milestones": [
+    {
+      "theorem_id": "d2bf1a8e-15a8-49ee-b2cd-46bb48bc90dd",
+      "title": "Small range — density $1/9$",
+      "completed": true,
+      "status": "Proved"
+    },
+    {
+      "theorem_id": "3ea2d7bd-075b-4005-a94c-bc22c37d6af0",
+      "title": "Finite certificate — $8000$ prime shifts",
+      "completed": true,
+      "status": "Proved"
+    },
+    {
+      "theorem_id": "72dc6a27-5992-4d42-8441-555fb65bebea",
+      "title": "Intermediate count — $26\\le\\log n\\le260$",
+      "completed": true,
+      "status": "Proved"
+    },
+    {
+      "theorem_id": "d0641bda-022b-49b2-803c-a9ec60af7910",
+      "title": "Large count — $n\\ge\\exp(260)$",
+      "completed": true,
+      "status": "Proved"
+    }
+  ],
+  "previous_campaign_entry": {
+    "slug": "odd-goldbach",
+    "title": "Every odd integer greater than one is a sum of at most 21 primes",
+    "area": "number-theory",
+    "mission_id": "949b9301-86ab-438d-8b33-5acc29e21fa6",
+    "mission_url": "https://prove2.me/missions/949b9301-86ab-438d-8b33-5acc29e21fa6",
+    "root_theorem_id": "7c518abe-0516-466f-bd05-bade32a648a0",
+    "status_url": "https://prove2.me/theorems/7c518abe-0516-466f-bd05-bade32a648a0",
+    "root_status": "Proved",
+    "campaign_url": "https://prove2.me/campaigns/odd-goldbach",
+    "attested_value": "21",
+    "recorded_at": "2026-10-30T14:07:46.920967+00:00",
+    "research_stage": "formalized quantitative refinement from 23 to 21; three-prime objective remains open",
+    "verification_status": "three submissions ACCEPTED; accepted source bytes match local submission files exactly; two milestones completed; root dependency paths verified; root open-leaves endpoint returns zero",
+    "publication_status": "public Prove2Me mission and attested campaign value 21; no journal publication or novelty priority claim",
+    "graph_status": "root reduction genuinely imports both counting milestones; root open leaves zero; graph view also contains unused alternative decompositions and is truncated",
+    "milestones_completed": 2,
+    "milestones_total": 2,
+    "root_submission_id": "60dbfdb6-b7d7-4d63-aba6-84b1d2e977d0",
+    "root_children": [
+      "15b67083-2a41-4812-aba7-de384b77735f",
+      "4ed167fa-dec1-44dd-92be-c835fb0d16d5",
+      "55b5ef4e-f71c-4097-9272-97193118028a",
+      "d4cf496a-eed1-4284-8d5d-f9cfbfb07786",
+      "ead17a5f-fdbd-4605-a18f-e0cca9ddf480"
+    ],
+    "contributions": [
+      {
+        "theorem_id": "15b67083-2a41-4812-aba7-de384b77735f",
+        "target": "Medium-range count, 19 <= log n <= 300",
+        "submission_id": "af38c379-ba00-4ce7-8663-aa1466c6963a",
+        "status": "ACCEPTED",
+        "source_matches_server_exactly": true,
+        "sha256": "29efa1b7e5991902691d57d709defe886ac0bf1942ee2c06e75b0800cd5c06d0"
+      },
+      {
+        "theorem_id": "ead17a5f-fdbd-4605-a18f-e0cca9ddf480",
+        "target": "Large-range count, n >= exp(300)",
+        "submission_id": "1ef22bd5-9d7e-4557-8535-7987042f0d8a",
+        "status": "ACCEPTED",
+        "source_matches_server_exactly": true,
+        "sha256": "dd96e71d66bcb1941f553e5634fc2fedf01f2c011d61b6a522b0ddd204e9d78a"
+      },
+      {
+        "theorem_id": "7c518abe-0516-466f-bd05-bade32a648a0",
+        "target": "21-prime campaign endpoint",
+        "submission_id": "60dbfdb6-b7d7-4d63-aba6-84b1d2e977d0",
+        "status": "ACCEPTED",
+        "source_matches_server_exactly": true,
+        "sha256": "878565fdf3ba24eab857d537cb2637ba58e5c88d51caa5e6b3b42f1f0220851c"
+      }
+    ],
+    "local_validation": {
+      "lean": "4.33.1",
+      "mathlib_revision": "0df444a360eaa60ab8c11dca51a86af692955474",
+      "fresh_cache_reproduction": false,
+      "caveat": "Local pre-existing platform theorem mirrors contain placeholders. Full independent reconstruction of those inputs was not performed; closure is supported by platform statuses and root open-leaves query."
+    },
+    "verified_at": "2026-10-30T15:41:30.946183+00:00"
+  },
+  "mathematical_source": "H. Riesel and R. C. Vaughan, On sums of primes, Arkiv for Matematik 21 (1983), 45-74. https://doi.org/10.1007/BF02384300"
 }
