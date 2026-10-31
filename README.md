@@ -96,7 +96,7 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 | [差分隐私：VC 维数误差下界](https://prove2.me/theorems/76a1cb7d-7a8a-45ea-a8ea-f916e463eff4) | 根定理 Proved，3/3 里程碑完成；2 项提交 ACCEPTED，提交源码与根依赖已核验。[公开贡献索引](contributions/private-release-vc/index.json) |
 | [网络巡检：均衡检测率与防守策略](https://prove2.me/theorems/2c212a8b-c3df-4cd8-8a63-4c899a3f4363) | 根定理 Proved，8/8 里程碑完成；6 项提交 ACCEPTED，提交源码与根依赖已核验。[公开贡献索引](contributions/network-inspection/index.json) |
 
-| [奇数素数和：23 → 21](https://prove2.me/missions/949b9301-86ab-438d-8b33-5acc29e21fa6) | campaign 已认证 21；根定理 Proved、2/2 里程碑完成、3 项提交 ACCEPTED；根依赖路径及零开放叶子已核验。已有输入未作完整独立复验，目标 3 仍开放。[公开贡献索引](contributions/odd-goldbach/index.json) |
+| [奇数素数和：23 → 21 → 19](https://prove2.me/missions/276f36e4-c119-430a-8ba3-94ec566f6249) | campaign 已认证 19；根定理 Proved、4/4 里程碑完成，根提交 ACCEPTED；源文件、实际依赖路径及零开放叶子已核验。已有输入未作完整独立复验，目标 3 仍开放。[公开贡献索引](contributions/odd-goldbach/index.json) |
 
 ## 如何理解进展
 
