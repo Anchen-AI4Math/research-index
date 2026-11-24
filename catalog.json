@@ -841,5 +841,39 @@
       "verified_on": "2026-10-23",
       "publication_status": "Public proof repository; statement merged in bigospeedrun/verifier PR #15; no novelty or priority claim from verification"
     }
+  ],
+  "upstream_contributions": [
+    {
+      "repository": "leanprover-community/riemann-hypothesis",
+      "author": "Anchen0823",
+      "pull_request": 901,
+      "url": "https://github.com/leanprover-community/riemann-hypothesis/pull/901",
+      "title": "周期数列分块求和",
+      "head_commit": "ca492abf214849e860a1cb595cfd4fc927a08a9a",
+      "upstream_status": "open",
+      "checked_on": "2026-11-24",
+      "verification": {
+        "status": "passed",
+        "scope": "单个求和模块",
+        "toolchain": "leanprover/lean4:v4.37.0-rc1",
+        "url": "https://github.com/Anchen0823/riemann-hypothesis/actions/runs/45347431248"
+      }
+    },
+    {
+      "repository": "leanprover-community/riemann-hypothesis",
+      "author": "Anchen0823",
+      "pull_request": 922,
+      "url": "https://github.com/leanprover-community/riemann-hypothesis/pull/922",
+      "title": "约化基的 Gram–Schmidt 展开与唯一性",
+      "head_commit": "6ab0d296b681cfdee3c78778d266ada227be17c2",
+      "upstream_status": "open",
+      "checked_on": "2026-11-24",
+      "verification": {
+        "status": "passed",
+        "scope": "约化基目录全部 7 个模块",
+        "toolchain": "leanprover/lean4:v4.37.0-rc1",
+        "url": "https://github.com/Anchen0823/riemann-hypothesis/actions/runs/45351355454"
+      }
+    }
   ]
 }

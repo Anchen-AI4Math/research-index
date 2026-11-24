@@ -14,6 +14,15 @@ Anchen AI4Math 的研究导航：集中查找课题、源码、状态文档与�
 
 本目录汇总各仓库，不复制证明源码。研究仓库已统一迁入 Anchen-AI4Math 组织；本目录链接指向迁移后的正式地址。
 
+## Lean 社区贡献
+
+Anchen0823 向 Lean 社区的[黎曼猜想形式化仓库](https://github.com/leanprover-community/riemann-hypothesis)提交了两项证明精简。截至 2026-11-24，两份 PR 均待上游审阅。下列构建在贡献者的 fork 上使用上游锁定的 Lean 4.37.0-rc1 和 Mathlib 版本完成。
+
+| 上游 PR | 证明改动 | 构建通过的范围 |
+| --- | --- | --- |
+| [#901 周期数列分块求和](https://github.com/leanprover-community/riemann-hypothesis/pull/901) | 从区间开头拆出一个周期，省去对周期倍数的辅助归纳。 | [单个求和模块](https://github.com/Anchen0823/riemann-hypothesis/actions/runs/45347431248) |
+| [#922 约化基的 Gram–Schmidt 展开与唯一性](https://github.com/leanprover-community/riemann-hypothesis/pull/922) | 复用展开公式和正交分量的唯一性，删去四个私有辅助引理。 | [约化基目录全部 7 个模块](https://github.com/Anchen0823/riemann-hypothesis/actions/runs/45351355454) |
+
 ## 工作区课题
 
 以下条目来自公开工作区的课题索引。题名描述研究对象或目标，不表示本组织已经证明对应命题；最新进展请打开每项的状态文档。
