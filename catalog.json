@@ -877,6 +877,22 @@
         "toolchain": "leanprover/lean4:v4.37.0-rc1",
         "url": "https://github.com/Anchen0823/riemann-hypothesis/actions/runs/45351355454"
       }
+    },
+    {
+      "repository": "open-goat/pequalnp-proofs",
+      "author": "Anchen0823",
+      "pull_request": 44335,
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/44335",
+      "title": "逐个真循环支撑取绝对值后的傅里叶抵消界",
+      "head_commit": "68de0b9e04e1bf6e086cdfffa809c29f4ed9eb47",
+      "upstream_status": "merged",
+      "checked_on": "2026-11-28",
+      "verification": {
+        "status": "passed",
+        "scope": "L-lib-925 完整 Lean 证明；上游合并，题台入账 41 分",
+        "toolchain": "leanprover/lean4:v4.36.0",
+        "url": "https://data.pequalnp.com/data/contributors.43e3fb1e7e85.json"
+      }
     }
   ]
 }
