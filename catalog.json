@@ -787,6 +787,7 @@
   "repositories": [
     {
       "full_name": "Anchen-AI4Math/hlawka-diagonal-certificates",
+      "doi": "10.5281/zenodo.23444667",
       "title": "Sharp diagonal Hlawka certificates",
       "url": "https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates",
       "area": "functional-analysis",
@@ -809,6 +810,7 @@
     },
     {
       "full_name": "Anchen-AI4Math/angel-devil",
+      "doi": "10.5281/zenodo.24597331",
       "title": "Angel–Devil: complete integer-power classification",
       "url": "https://github.com/Anchen-AI4Math/angel-devil",
       "area": "combinatorial-game-theory",
@@ -830,6 +832,7 @@
     },
     {
       "full_name": "Anchen-AI4Math/average-sensitivity-lean",
+      "doi": "10.5281/zenodo.24596575",
       "url": "https://github.com/Anchen-AI4Math/average-sensitivity-lean",
       "title": "Average Sensitivity",
       "research_stage": "Formal proof of the polynomial-threshold average-sensitivity bound with coefficient 1881/500",
