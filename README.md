@@ -23,6 +23,8 @@ Anchen0823 向 Lean 社区的[黎曼猜想形式化仓库](https://github.com/le
 | [#901 周期数列分块求和](https://github.com/leanprover-community/riemann-hypothesis/pull/901) | 从区间开头拆出一个周期，省去对周期倍数的辅助归纳。 | [单个求和模块](https://github.com/Anchen0823/riemann-hypothesis/actions/runs/45347431248) |
 | [#922 约化基的 Gram–Schmidt 展开与唯一性](https://github.com/leanprover-community/riemann-hypothesis/pull/922) | 复用展开公式和正交分量的唯一性，删去四个私有辅助引理。 | [约化基目录全部 7 个模块](https://github.com/Anchen0823/riemann-hypothesis/actions/runs/45351355454) |
 
+在 P vs NP 协作题库中，Anchen0823 证明了对每个真循环支撑分别取绝对值后仍成立的傅里叶抵消界。题目 L-lib-925 已由上游于 2026-11-28（北京时间）合并，题台记入 41 分。[上游证明](https://github.com/open-goat/pequalnp-proofs/pull/44335) · [贡献者记录](https://pequalnp.com/a/Anchen0823)
+
 ## 工作区课题
 
 以下条目来自公开工作区的课题索引。题名描述研究对象或目标，不表示本组织已经证明对应命题；最新进展请打开每项的状态文档。
