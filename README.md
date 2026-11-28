@@ -25,6 +25,8 @@ Anchen0823 向 Lean 社区的[黎曼猜想形式化仓库](https://github.com/le
 
 在 P vs NP 协作题库中，Anchen0823 证明了对每个真循环支撑分别取绝对值后仍成立的傅里叶抵消界。题目 L-lib-925 已由上游于 2026-11-28（北京时间）合并，题台记入 41 分。[上游证明](https://github.com/open-goat/pequalnp-proofs/pull/44335) · [贡献者记录](https://pequalnp.com/a/Anchen0823)
 
+L-meta-34730 给出了一个八顶点图的 15 门单调电路，并证明允许使用 NOT 的扇入至多二电路也至少需要 15 门。上游于 2026-11-28（北京时间）合并，题台记入 37 分。[上游证明](https://github.com/open-goat/pequalnp-proofs/pull/47322) · [积分账本](https://data.pequalnp.com/data/contributors.848a5f907ee9.json)
+
 ## 工作区课题
 
 以下条目来自公开工作区的课题索引。题名描述研究对象或目标，不表示本组织已经证明对应命题；最新进展请打开每项的状态文档。
