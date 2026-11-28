@@ -893,6 +893,22 @@
         "toolchain": "leanprover/lean4:v4.36.0",
         "url": "https://data.pequalnp.com/data/contributors.43e3fb1e7e85.json"
       }
+    },
+    {
+      "repository": "open-goat/pequalnp-proofs",
+      "author": "Anchen0823",
+      "pull_request": 47322,
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/47322",
+      "title": "一个八顶点图的边检测恰需 15 门",
+      "head_commit": "e48ef328ff6d1df0d993843722efe23f8fbdbda6",
+      "upstream_status": "merged",
+      "checked_on": "2026-11-28",
+      "verification": {
+        "status": "passed",
+        "scope": "L-meta-34730 完整 Lean 证明已合并，题台入账 37 分",
+        "toolchain": "leanprover/lean4:v4.36.0",
+        "url": "https://data.pequalnp.com/data/contributors.848a5f907ee9.json"
+      }
     }
   ]
 }
